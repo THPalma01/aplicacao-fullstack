@@ -1,14 +1,17 @@
 🌐 Aplicação Fullstack (Node.js + React)
 
+
 🧠 Descrição
 
 Aplicação fullstack desenvolvida utilizando Node.js no backend e React no frontend, implementando um sistema simples com operações CRUD completas.
 
 O projeto demonstra a comunicação entre cliente e servidor, manipulação de dados e organização de uma aplicação dividida em camadas.
 
+
 🎯 Objetivo
 
 Praticar o desenvolvimento fullstack, integrando frontend e backend em uma aplicação funcional.
+
 
 🛠️ Tecnologias
 
@@ -19,6 +22,7 @@ Express
 React
 
 JavaScript
+
 
 ⚙️ Funcionalidades
 
@@ -31,6 +35,7 @@ Atualização de informações
 Exclusão de registros
 
 Comunicação via API REST
+
 
 🧠 Conceitos aplicados
 
