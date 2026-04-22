@@ -1,64 +1,41 @@
-🌐 Aplicação Fullstack (Node.js + React)
+# 🌐 Sistema CRUD Fullstack (Node.js + React)
 
+## 🧠 Descrição
 
-🧠 Descrição
+Aplicação fullstack que implementa operações CRUD completas, utilizando Node.js no backend e React no frontend.
 
-Aplicação fullstack desenvolvida utilizando Node.js no backend e React no frontend, implementando um sistema simples com operações CRUD completas.
+O sistema simula um fluxo real de aplicação web, com comunicação entre interface e servidor através de requisições HTTP.
 
-O projeto demonstra a comunicação entre cliente e servidor, manipulação de dados e organização de uma aplicação dividida em camadas.
+## 🎯 Objetivo
 
+Consolidar o desenvolvimento fullstack, integrando frontend e backend em uma aplicação funcional.
 
-🎯 Objetivo
+## 🛠️ Tecnologias
 
-Praticar o desenvolvimento fullstack, integrando frontend e backend em uma aplicação funcional.
+* Node.js
+* Express
+* React
+* JavaScript
 
+## ⚙️ Funcionalidades
 
-🛠️ Tecnologias
+* Cadastro de registros
+* Listagem de dados
+* Atualização de informações
+* Exclusão de registros
+* Integração via API REST
 
-Node.js
+## 🧠 Conceitos aplicados
 
-Express
+* Arquitetura cliente-servidor
+* CRUD completo
+* Consumo de API
+* Separação entre frontend e backend
 
-React
+## ▶️ Como executar
 
-JavaScript
-
-
-⚙️ Funcionalidades
-
-Cadastro de registros
-
-Listagem de dados
-
-Atualização de informações
-
-Exclusão de registros
-
-Comunicação via API REST
-
-
-🧠 Conceitos aplicados
-
-Arquitetura cliente-servidor
-
-CRUD
-
-Consumo de API
-
-Organização de código em camadas
-
-
-▶️ Como executar
-
-Instalar dependências no backend e frontend
-
-Iniciar o servidor backend
-
-Executar a aplicação React
-
-Acessar via navegador
-
-
-📌 Observações
-
-Projeto com foco educacional, voltado para entendimento da integração entre frontend e backend.
+1. Instalar dependências no backend (`npm install` ou `yarn`)
+2. Iniciar o servidor backend
+3. Instalar dependências no frontend
+4. Executar o React
+5. Acessar pelo navegador
